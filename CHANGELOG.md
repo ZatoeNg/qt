@@ -1,5 +1,11 @@
 # 记录
+* 实现自定义的delegate
+# 2026-04-29
+* QT item selection model
+* QT实现自定义列表模型
+# 2026-04-28
 * 按键事件和定时器
+* Model介绍
 
 # 2026-04-27
 * QT 布局
@@ -10,6 +16,7 @@
 * QDragEvent
 * Event Filter
 * 鼠标事件
+
 # 2026-04-26
 * 学完QT对话框
 * QT LineEdit
